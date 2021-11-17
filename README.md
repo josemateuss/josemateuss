@@ -1,11 +1,11 @@
 # HEY ✌🏼 I'm José Mateus
 
-Graduated in Computer Science at Centro Universitário de Brasília. I work with back-end systems development using Ruby on Rails and NodeJS at Levee, interested in new professional challenges and willing to learn new technologies, focusing on software development.
+Graduated in Computer Science at Centro Universitário de Brasília. I work with back-end systems development using Ruby on Rails and Golang at Levee with Rest API and GraphQL, interested in new professional challenges and willing to learn new technologies, focusing on software development.
 
 ####
 
 ##### 📍 I am Brazilian 🇧🇷 and currently live in Brasilia, Federal District 
-##### 🧑🏻‍💻 Back-end Developer | Ruby | NodeJS | Go
+##### 🧑🏻‍💻 Back-end Developer | Ruby | Go | NodeJS
 ##### 🏢 Software Engineer at Levee
 
 <div>
