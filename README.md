@@ -4,7 +4,7 @@ Graduated in Computer Science at Centro Universitário de Brasília. I work with
 
 ####
 
-##### 📍 I am Brazilian 🇧🇷 and currently live in Brasilia, Federal District 
+##### 📍 I am Brazilian 🇧🇷 and currently live in Brasilia, Distrito Federal 
 ##### 🧑🏻‍💻 Back-end Developer | Ruby | Go | NodeJS
 ##### 🏢 Software Engineer at Levee
 
