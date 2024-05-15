@@ -67,6 +67,10 @@
 
 ## Use To Code
 
+<!--
+https://github.com/LelouchFR/skill-icons
+-->
+
 - Backend
 
 <p align="left">
@@ -103,7 +107,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,bitbucket,githubactions,idea,webstorm,vscode,vim,postman,linux,bash,sentry&perline=7" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,bitbucket,githubactions,webstorm,vscode,vim,postman,linux,bash,sentry,goland,rubymine&perline=8" />
   </a>
 </p>
 
