@@ -75,7 +75,7 @@ https://github.com/LelouchFR/skill-icons
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,ruby,rails,nodejs,nestjs,cpp,java,graphql" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=go,ruby,rails,nodejs,nestjs,java,php,cpp,graphql&perline=8" />
   </a>
 </p>
 
@@ -83,7 +83,7 @@ https://github.com/LelouchFR/skill-icons
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,mysql,postgresql,redis,elasticsearch" />
   </a>
 </p>
 
@@ -91,7 +91,7 @@ https://github.com/LelouchFR/skill-icons
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=aws" />
   </a>
 </p>
 
@@ -99,7 +99,7 @@ https://github.com/LelouchFR/skill-icons
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rabbitmq" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=rabbitmq" />
   </a>
 </p>
 
@@ -107,7 +107,7 @@ https://github.com/LelouchFR/skill-icons
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,bitbucket,githubactions,webstorm,vscode,vim,postman,linux,bash,sentry,goland,rubymine&perline=8" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,kubernetes,bitbucket,githubactions,goland,rubymine,datagrip,webstorm,vscode,vim,postman,linux,bash,sentry&perline=8" />
   </a>
 </p>
 
