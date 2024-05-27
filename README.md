@@ -58,11 +58,11 @@
 <p>
 <!-- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" /> -->
 
-💻️ &emsp; Enjoy to do programming and sharing what I know.<br/><br/>
-❤️ &emsp; Love to writing code and learning new things.<!--<br/><br/>-->
-<!-- 🏢 &emsp; Currently working at [Frete Rápido](https://www.freterapido.com.br/).<br/><br/> -->
-🏫 &emsp; Bachelor in **Computer Science** and post graduating in **Cloud Computing** both at [UniCEUB](https://www.uniceub.br/).<br/><br/>
-💬 &emsp; Ask me about anything [here](https://github.com/josemateuss/josemateuss/issues).
+💻️ Enjoy to do programming and sharing what I know.<br/><br/>
+❤️ Love to writing code and learning new things.<!--<br/><br/>-->
+<!-- 🏢 Currently working at [Frete Rápido](https://www.freterapido.com.br/).<br/><br/> -->
+🏫 Bachelor in **Computer Science** and post graduating in **Cloud Computing** both at [UniCEUB](https://www.uniceub.br/).<br/><br/>
+💬 Ask me about anything [here](https://github.com/josemateuss/josemateuss/issues).
 <br/>
 
 ## Use To Code
@@ -71,7 +71,7 @@
 https://github.com/LelouchFR/skill-icons
 -->
 
-- Backend
+- **Backend**
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -79,7 +79,7 @@ https://github.com/LelouchFR/skill-icons
   </a>
 </p>
 
-- Database
+- **Database**
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -87,7 +87,7 @@ https://github.com/LelouchFR/skill-icons
   </a>
 </p>
 
-- Cloud Servers
+- **Cloud Servers**
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -95,7 +95,7 @@ https://github.com/LelouchFR/skill-icons
   </a>
 </p>
 
-- Messaging Service
+- **Messaging Service**
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -103,7 +103,7 @@ https://github.com/LelouchFR/skill-icons
   </a>
 </p>
 
-- Tools
+- **Tools**
 
 <p align="left">
   <a href="https://skillicons.dev">
