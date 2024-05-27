@@ -27,36 +27,36 @@
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/josemateuss" target="_blank">
+  <a href="https://linkedin.com/in/josemateuss" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" height=40 withd=40 /></a>
+  <a href="https://github.com/josemateuss" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=github" height=40 withd=40 /></a>
+  <a href="mailto:mateus.18.santos@gmail.com" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" height=40 withd=40 /></a>
+  <a href="https://instagram.com/josemateus95" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" height=40 withd=40 /></a>
+  <a href="https://www.youtube.com/@jm.pelomundo" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=youtube" height=40 withd=40 /></a>
+<!-- <a href="https://linkedin.com/in/josemateuss" target="_blank">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="josemateuss"/>
-</a>
+</a> -->
 <!-- <a href="https://dev.to/josemateuss" target="_blank">
  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="josemateuss" />
 </a> -->
 <!-- <a href="https://twitter.com/josemateus95" target="_blank">
  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a> -->
-<a href="https://instagram.com/josemateus95" target="_blank">
+<!-- <a href="https://instagram.com/josemateus95" target="_blank">
  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="josemateuss" />
-</a>
+</a> -->
 <!-- <a href="https://facebook.com/josemateus95" target="_blank">
  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="josemateuss"  />
 </a> -->
-<a href = "mailto:mateus.18.santos@gmail.com" target="_blank">
+<!-- <a href = "mailto:mateus.18.santos@gmail.com" target="_blank">
  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="josemateuss"  />
-</a>
-<a href="https://www.youtube.com/@jm.pelomundo" target="_blank">
+</a> -->
+<!-- <a href="https://www.youtube.com/@jm.pelomundo" target="_blank">
  <img src="https://img.shields.io/badge/Youtube-FF0000?&style=for-the-badge&logo=youtube&logoColor=white" alt="josemateuss"  />
-</a>
-</p>
-<br />
+</a> -->
 
 <!-- About Section -->
 
 # About me
-
-<p>
-<!-- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" /> -->
 
 💻️ Enjoy to do programming and sharing what I know.<br/><br/>
 ❤️ Love to writing code and learning new things.<!--<br/><br/>-->
@@ -113,13 +113,11 @@ https://github.com/LelouchFR/skill-icons
 
 <br/>
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/josemateuss?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
+</p> -->
 
-<br/>
 <hr/>
-<br/>
 
 <p align="center">
   <a href="https://github.com/josemateuss">
