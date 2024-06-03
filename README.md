@@ -107,7 +107,7 @@ https://github.com/LelouchFR/skill-icons
 
 <p align="left">
   <a href="https://github.com/LelouchFR/skill-icons">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,kubernetes,githubactions,goland,rubymine,datagrip,webstorm,postman,linux,bash,sentry,mermaid&perline=8" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,kubernetes,githubactions,goland,rubymine,datagrip,webstorm,postman,linux,bash,sentry,mermaid&perline=7" />
   </a>
 </p>
 
