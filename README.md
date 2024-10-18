@@ -60,7 +60,7 @@
 
 💻️ Enjoy to do programming and sharing what I know.<br/><br/>
 ❤️ Love to writing code and learning new things.<!--<br/><br/>-->
-<!-- 🏢 Currently working at [Frete Rápido](https://www.freterapido.com.br/).<br/><br/> -->
+🏢 Currently working at [Frete Rápido](https://www.freterapido.com.br/).<br/><br/>
 🏫 Bachelor in **Computer Science** and post graduating in **Cloud Computing** both at [UniCEUB](https://www.uniceub.br/).<br/><br/>
 💬 Ask me about anything [here](https://github.com/josemateuss/josemateuss/issues).
 <br/>
